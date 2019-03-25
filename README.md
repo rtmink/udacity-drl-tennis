@@ -53,4 +53,4 @@ jupyter notebook
 In the notebook, refer to `Report.ipynb` to see how the agents are implemented and trained. The implementation includes the model architecture of the neural networks. A plot of rewards per episode maxed over both agents is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
 
 ## Evaluation
-Refer to `Tennis.ipynb` to see how the trained agents perform in Unity Reacher environment built for Udacity.
+Refer to `Tennis.ipynb` to see how the trained agents perform in Unity Tennis environment built for Udacity.
